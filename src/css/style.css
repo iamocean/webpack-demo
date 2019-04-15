@@ -1,0 +1,14 @@
+*{margin:0;padding:0;}
+html, body {
+  height:100%;
+}
+body {
+  background-color:#000;
+}
+.title {
+  display:inline-block;
+  margin:30px;
+  line-height:1.5;
+  font-size:36px;
+  color:#FFF;
+}
